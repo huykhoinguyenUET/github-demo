@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\ADMIN\Documents\BT C++\Game\Game\main.cpp(4,81): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\ADMIN\Documents\BT C++\Game\Game\main.cpp(5,41): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\ADMIN\Documents\BT C++\Game\Game\main.cpp(6,47): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\ADMIN\Documents\BT C++\Game\Game\main.cpp(10,81): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\ADMIN\Documents\BT C++\Game\Game\main.cpp(32,41): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\ADMIN\Documents\BT C++\Game\Game\main.cpp(39,48): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\ADMIN\Documents\BT C++\Game\Game\main.cpp(89,11): warning C4129: 'B': unrecognized character escape sequence
+C:\Users\ADMIN\Documents\BT C++\Game\Game\main.cpp(94,11): warning C4129: 'B': unrecognized character escape sequence
+C:\Users\ADMIN\Documents\BT C++\Game\Game\main.cpp(109,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.vcxproj -> C:\Users\ADMIN\Documents\BT C++\Game\Debug\Game.exe
